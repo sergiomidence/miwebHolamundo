@@ -1,0 +1,53 @@
+[33mcommit 0ec01ca1269f0b18a8cb1507391fe54c9df694e7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mramab[m[33m)[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:55:00 2023 -0600
+
+    archivo2.txt
+
+[33mcommit f1ee2d5dbf9038586399fcc40cf2965de076b8a6[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:40:01 2023 -0600
+
+    Mostrando status corto
+
+[33mcommit 062f546a146ef2c32e95ff2c4462cd95caa0252f[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:35:49 2023 -0600
+
+    Agregando archivo gitignere
+
+[33mcommit f968e9e7ded024e0c6b0294c651ca27d0fbc5d9b[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:31:24 2023 -0600
+
+    devolviendo el nombre del archivo
+
+[33mcommit c5818b4eb508a2c8b7835a2872349e279f6c35aa[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:29:20 2023 -0600
+
+    renovando archivo1
+
+[33mcommit 2d94a5983a3723fe508b3bd231b40a8cc58c9949[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:22:31 2023 -0600
+
+    eliminando archivo2
+
+[33mcommit 7b04974f93cd133b8f7b11788f7c1c713b8a5d8f[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:19:34 2023 -0600
+
+    Agregando tercer chanchito feliz
+
+[33mcommit e11aa826441c93e477779a5defe3d84698769dad[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:16:26 2023 -0600
+
+    Agregando un chanchito feliz
+
+[33mcommit b18a44c92bce6d8cff9feefbe32327dcb0d8fc46[m
+Author: Sergiomidence <sergiomidence1@gmail.com>
+Date:   Sat Feb 18 06:15:15 2023 -0600
+
+    commit inicial
